@@ -5,13 +5,11 @@
 <h3>Para ejecutarlo... </h3>
 <br>
 <h3> Primero instalar  </h3>
-<br>
  npm i -D live-server
 <br>
 <h3>Luego iniciar el server</h3>
-<br>
 npm start
-<br>
+<br><br>
  gonzi
  
 
