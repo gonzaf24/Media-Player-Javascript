@@ -10,6 +10,11 @@
 <h3>Luego iniciar el server</h3>
 npm start
 <br><br>
+
+Captura de pantalla : 
+<br><br>
+
+<img src="https://alchimia.s3.us-east-2.amazonaws.com/utils/mediaPlayerJavascript.png">
  gonzi
  
 
